@@ -1,4 +1,4 @@
-#Submodular Maximization Through Barrier Functions
+# Submodular Maximization Through Barrier Functions
 
 The code accompanying the paper entitled "Submodular Maximization Through Barrier Functions"
 
